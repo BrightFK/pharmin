@@ -19,7 +19,6 @@
 - [Project Structure](#-project-structure)
 - [Key Features Explained](#-key-features-explained)
 - [Contributing](#-contributing)
-
 ---
 
 ## 📱 Overview
@@ -72,37 +71,30 @@
 - ✅ Offline-first architecture
 - ✅ Pharmacy profile customization
 
-### 📱 **Future-Ready**
-- ✅ Smart search (prepared)
-- ✅ Barcode scanning (planned)
-- ✅ AI integration (planned)
-- ✅ Cloud sync (planned)
-
 ---
 
 ## 📸 Screenshots
 
-> **Note**: Replace these placeholders with actual screenshots of your app.
+> **Note**: All screenshots captured on a Samsung Galaxy device.
 
 ### Dashboard & Inventory
-| Inventory List | Medicine Detail | Batch Management |
+| Inventory List | Medicine Detail | Add/Edit Medicine |
 |:---:|:---:|:---:|
-| ![Inventory List](screenshots/inventory_list.png) | ![Medicine Detail](screenshots/medicine_detail.png) | ![Batch Management](screenshots/batch_management.png) |
+| ![Inventory List](screenshots/Screenshot_20260810_083540.jpg) | ![Medicine Detail](screenshots/Screenshot_20260810_083732.jpg) | ![Add Medicine](screenshots/Screenshot_20260810_083802.jpg) |
+
+| Batch Management | Batch Detail | Batch History |
+|:---:|:---:|:---:|
+| ![Batch Management](screenshots/Screenshot_20260810_083830.jpg) | ![Batch Detail](screenshots/Screenshot_20260810_083837.jpg) | ![Batch History](screenshots/Screenshot_20260810_084048.jpg) |
 
 ### Sales & POS
-| Sales Screen | Cart | Receipt |
+| Sales Screen | Cart Checkout | Receipt |
 |:---:|:---:|:---:|
-| ![Sales](screenshots/sales.png) | ![Cart](screenshots/cart.png) | ![Receipt](screenshots/receipt.png) |
+| ![Sales](screenshots/Screenshot_20260810_083908.jpg) | ![Cart](screenshots/Screenshot_20260810_084016.jpg) | ![Receipt](screenshots/Screenshot_20260810_084027.jpg) |
 
-### Analytics & Reports
-| Stock Report | Expiry Alerts | Transaction History |
+### Reports & Management
+| Stock Report | Transaction History | Export Reports |
 |:---:|:---:|:---:|
-| ![Stock Report](screenshots/stock_report.png) | ![Expiry Alerts](screenshots/expiry_alerts.png) | ![Transaction History](screenshots/transaction_history.png) |
-
-### Settings & Profile
-| Pharmacy Profile | Notifications | Export Reports |
-|:---:|:---:|:---:|
-| ![Profile](screenshots/pharmacy_profile.png) | ![Notifications](screenshots/notifications.png) | ![Export](screenshots/export_reports.png) |
+| ![Stock Report](screenshots/Screenshot_20260810_084041.jpg) | ![Transaction History](screenshots/Screenshot_20260810_084048.jpg) | ![Export Reports](screenshots/Screenshot_20260810_084048.jpg) |
 
 ---
 
@@ -320,9 +312,9 @@ We welcome contributions! Here's how you can help:
 - [x] Export reports
 
 ### Phase 2 🚧 (In Progress)
+- [x] Pharmacy profile customization
+- [x] Enhanced notifications
 - [ ] Barcode/QR scanning
-- [ ] Pharmacy profile customization
-- [ ] Enhanced notifications
 - [ ] Performance optimizations
 
 ### Phase 3 📅 (Planned)
@@ -334,6 +326,11 @@ We welcome contributions! Here's how you can help:
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## 👏 Acknowledgments
 
@@ -341,11 +338,6 @@ We welcome contributions! Here's how you can help:
 - **Hive** for fast local storage
 - **Riverpod** for clean state management
 - **All contributors** who help make PharmIn better
-
----
-
-## 📬 Contact
-- **GitHub**: [@BrightFK](https://github.com/BrightFK)
 
 ---
 
@@ -358,5 +350,3 @@ If you find PharmIn useful, please give it a star ⭐ on GitHub! Your support he
 **Built with ❤️ for the pharmacy community**
 
 ---
----
-
