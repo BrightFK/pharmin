@@ -78,23 +78,19 @@
 > **Note**: All screenshots captured on a Samsung Galaxy device.
 
 ### Dashboard & Inventory
-| Inventory List | Medicine Detail | Add/Edit Medicine |
+| Inventory List | Medicine Detail | Notifications Settings| 
 |:---:|:---:|:---:|
-| ![Inventory List](screenshots/Screenshot_20260810_083540.jpg) | ![Medicine Detail](screenshots/Screenshot_20260810_083732.jpg) | ![Add Medicine](screenshots/Screenshot_20260810_083802.jpg) |
+| ![Inventory List](screenshots/Screenshot_20260810_083540.jpg) | ![Medicine Detail](screenshots/Screenshot_20260810_083732.jpg) | ![Stock Report](screenshots/Screenshot_20260810_084041.jpg)|
 
-| Batch Management | Batch Detail | Batch History |
+| Cart | Reciept | Transaction History |
 |:---:|:---:|:---:|
-| ![Batch Management](screenshots/Screenshot_20260810_083830.jpg) | ![Batch Detail](screenshots/Screenshot_20260810_083837.jpg) | ![Batch History](screenshots/Screenshot_20260810_084048.jpg) |
+| ![Cart](screenshots/Screenshot_20260810_083830.jpg) | ![Reciept](screenshots/Screenshot_20260810_083837.jpg) | ![Transaction History](screenshots/Screenshot_20260810_084048.jpg) |
 
 ### Sales & POS
-| Sales Screen | Cart Checkout | Receipt |
+| Report | Expiry Alerts | Pharmacy Profile |
 |:---:|:---:|:---:|
-| ![Sales](screenshots/Screenshot_20260810_083908.jpg) | ![Cart](screenshots/Screenshot_20260810_084016.jpg) | ![Receipt](screenshots/Screenshot_20260810_084027.jpg) |
+| ![Report](screenshots/Screenshot_20260810_083908.jpg) | ![Expiry](screenshots/Screenshot_20260810_084016.jpg) | ![Profile](screenshots/Screenshot_20260810_084027.jpg) |
 
-### Reports & Management
-| Stock Report | Transaction History | Export Reports |
-|:---:|:---:|:---:|
-| ![Stock Report](screenshots/Screenshot_20260810_084041.jpg) | ![Transaction History](screenshots/Screenshot_20260810_084048.jpg) | ![Export Reports](screenshots/Screenshot_20260810_084048.jpg) |
 
 ---
 
